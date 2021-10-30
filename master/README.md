@@ -49,11 +49,11 @@ Tasks to answer in your own README.md that you submit on Canvas:
 	 
 1.  What is the actual issue here, what is the sequence of Exceptions and handlers (debug)
 	
-	TimerException
-	Exception
+	TimerException,
+	Exception,
 	NullPointerException --- for the two logger.info should not null, but the NullPointerException catch the 
 	it as null. 
-	RuntimeException
+	RuntimeException,
 	Exception
 
 1.  Make a printScreen of your eclipse JUnit5 plugin run (JUnit window at the bottom panel) 
